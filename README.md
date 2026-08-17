@@ -1,0 +1,2 @@
+# Voting
+SCP: CS plugin
